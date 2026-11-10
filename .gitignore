@@ -1,0 +1,7 @@
+# Never commit real secrets
+secrets.h
+
+# Build artifacts
+build/
+*.bin
+*.elf
